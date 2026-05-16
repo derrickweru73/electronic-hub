@@ -37,14 +37,6 @@ The project uses a modern tech-inspired design focused on:
 
 #  Brand Colors
 
- 
-|------|----------|-------|
-| Primary Blue | #2563EB | Buttons, highlights |
-| Dark Gray | #1F2937 | Main text |
-| Light Gray | #F3F4F6 | Background |
-| White | #FFFFFF | Cards, sections |
-| Accent Green | #10B981 | Offers / CTA |
-
 ---
 
 #  Typography
@@ -111,6 +103,8 @@ electronic-product-showcase/
 │    ├── images/
 │    └── icons/
 │── README.md
+
+
   Installation & Setup
 1. Clone Repository
 Bash
@@ -126,6 +120,7 @@ Open:
 Bash
 index.html
 using Live Server in code.visualstudio.com⁠
+
  Deployment
 This project can be deployed using:
 GitHub Pages
@@ -136,6 +131,8 @@ Click Pages
 Select branch: main
 Save
 Copy generated live URL
+
+
  Contribution
 Contributions are welcome.
 You can contribute by:
@@ -144,6 +141,8 @@ Adding new product categories
 Fixing bugs
 Improving responsiveness
 Enhancing accessibility
+
+
   How to Contribute
 Fork the repository
 Create new branch
@@ -157,6 +156,7 @@ Push changes
 Bash
 git push origin feature-name
 Open Pull Request on github.com⁠
+
   Future Improvements
 Add JavaScript filtering
 Add search functionality
@@ -166,6 +166,7 @@ Add animations
 Add product details page
 Connect backend database
 Add checkout functionality
+
   Testing
 Test on:
 Desktop
@@ -178,11 +179,13 @@ Fast loading speed
 Fully responsive
 Accessible design
 SEO-friendly structure
+
   Author
 Derrick Weru
 Frontend Developer
 GitHub: (Add your GitHub profile link here)
-  License
+
+   License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project.
   
